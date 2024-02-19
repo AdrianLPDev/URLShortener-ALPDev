@@ -9,6 +9,12 @@ bun install
 To run:
 
 ```bash
+node server.js
+```
+
+OR
+
+```bash
 bun run index.js
 ```
 
